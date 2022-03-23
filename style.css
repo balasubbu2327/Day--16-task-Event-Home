@@ -1,0 +1,29 @@
+.box{
+    padding: 40px 20px 20px 20px;
+    background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    
+
+}
+.title{
+    color: rgb(87, 18, 18);
+    background-color: rgb(219, 151, 130);
+}
+h1{
+    font-weight: 900;
+}
+h3{
+    font-weight: 700;
+}
+.box-1{
+    background-color: rgb(248, 113, 113);
+    padding: 30px;
+    margin: 20px 5px;
+    color: #751010;
+    font-weight: 500;
+    
+}
+.fa{
+    float: left;
+    padding-top: 30px;
+    color: #41dfff;
+}
